@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # According to:
 # How To Set Up Python 2.7.6 and 3.3.3 on CentOS 6.4
