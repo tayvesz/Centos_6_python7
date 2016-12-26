@@ -12,4 +12,4 @@ cd Python-2.7.13
 ./configure --prefix=/usr/local 
 make
 make altinstall
-export 'PATH="/usr/local/bin:$PATH'
+export PATH="/usr/local/bin:$PATH
